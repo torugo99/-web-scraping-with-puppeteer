@@ -11,9 +11,30 @@ const searchFor = "unknown";
     await page.goto(url);
     console.log(`Searching all devices with ${searchFor} name 🔎...`);
 
-    const device = await page.$$eval('div.col-md-9 div.col-sm-4 div.thumbnail div.caption a.title', element => element.map(device_desc => device_desc.textContent));
-    console.log(device)  
+
+    await Promise.all([
+        page.waitForNavigation(),
+        page.click('a.title')
+    ]);
+
+    const device = await page.$$eval('a.title', 
+    element => element.map(device_desc => device_desc.textContent));
+
+
     
-    await page.waitForFileChooser(1000);
-    await browser.close();
+    const price = await page.evaluate(() => 
+    Array.from(document.querySelectorAll('h4.pull-right'))
+    .map(element => element.innerText));
+
+    const description = await page.evaluate(() => 
+    Array.from(document.querySelectorAll('p.description'))
+    .map(description => description.innerText));
+
+    const memory = await page.evaluate(() => 
+    Array.from(document.querySelectorAll('div.swatches'))
+    .map(memory => memory.innerText));
+
+    console.log(memory);
+    
+    //await browser.close();
 })();
