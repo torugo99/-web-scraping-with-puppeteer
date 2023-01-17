@@ -1,4 +1,5 @@
 const pup = require('puppeteer')
+const fs = require('fs');
 
 const url = "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops";
 const searchFor = "Lenovo";
@@ -32,10 +33,12 @@ const array = [];
         obj.url = device_url;
 
         array.push(obj);   
+
+        await fs.writeFileSync('.export.json', JSON.stringify(array));
         
         console.log(array);
     }
-
+    
     await browser.close();
 
 })();
