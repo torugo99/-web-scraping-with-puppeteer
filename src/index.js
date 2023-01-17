@@ -1,7 +1,7 @@
 const pup = require('puppeteer')
 const fs = require('fs');
 
-const url = "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops";
+const url = 'https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops';
 const searchFor = "Lenovo";
 
 const array = [];
@@ -22,11 +22,8 @@ const array = [];
 
         const description = await page.$eval('p.description', element => element.innerText);
         const price = await page.$eval('h4.pull-right', element => element.innerText);
-
         const memorys = await page.$eval('div.swatches', element => element.innerText);
         const memorys_unavailable = await page.$eval('button.btn.swatch.disabled', element => element.innerText);
-
-        orderby = price.length
 
         const obj = {};
         obj.name_and_description = description;
