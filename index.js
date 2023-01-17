@@ -1,40 +1,41 @@
 const pup = require('puppeteer')
 
 const url = "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops";
-const searchFor = "unknown";
+const searchFor = "Lenovo";
+
+const array = [];
 
 (async () => {
-    const browser = await pup.launch({headless: true});
+    const browser = await pup.launch({headless: false});
     const page = await browser.newPage();
     console.log('Accessing the browser 🌐...');
 
     await page.goto(url);
     console.log(`Searching all devices with ${searchFor} name 🔎...`);
 
+    const devices = await page.$$eval('a.title', 
+    element => element.map(device_url => device_url.href));
 
-    await Promise.all([
-        page.waitForNavigation(),
-        page.click('a.title')
-    ]);
+    for(const device_url of devices) {
+        await page.goto(device_url);
 
-    const device = await page.$$eval('a.title', 
-    element => element.map(device_desc => device_desc.textContent));
+        const description = await page.$eval('p.description', element => element.innerText);
+        const price = await page.$eval('h4.pull-right', element => element.innerText);
+        const memorys = await page.$eval('div.swatches', element => element.innerText);
 
+        orderby = price.length
 
-    
-    const price = await page.evaluate(() => 
-    Array.from(document.querySelectorAll('h4.pull-right'))
-    .map(element => element.innerText));
+        const obj = {};
+        obj.name_and_description = description;
+        obj.price = price;
+        obj.memorys = memorys;
+        obj.url = device_url;
 
-    const description = await page.evaluate(() => 
-    Array.from(document.querySelectorAll('p.description'))
-    .map(description => description.innerText));
+        array.push(obj);   
+        
+        console.log(array);
+    }
 
-    const memory = await page.evaluate(() => 
-    Array.from(document.querySelectorAll('div.swatches'))
-    .map(memory => memory.innerText));
+    await browser.close();
 
-    console.log(memory);
-    
-    //await browser.close();
 })();
