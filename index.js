@@ -22,23 +22,28 @@ const array = [];
 
         const description = await page.$eval('p.description', element => element.innerText);
         const price = await page.$eval('h4.pull-right', element => element.innerText);
+
         const memorys = await page.$eval('div.swatches', element => element.innerText);
+        const memorys_unavailable = await page.$eval('button.btn.swatch.disabled', element => element.innerText);
 
         orderby = price.length
 
         const obj = {};
         obj.name_and_description = description;
         obj.price = price;
-        obj.memorys = memorys;
-        obj.url = device_url;
+        obj.memorys = {
+            memorys,
+            memorys_unavailable
+        };
+        obj.url = device_url;        
 
-        array.push(obj);   
-
+        array.push(obj);
+        
         await fs.writeFileSync('.export.json', JSON.stringify(array));
         
         console.log(array);
     }
     
-    await browser.close();
+  await browser.close();
 
 })();
