@@ -1,0 +1,704 @@
+[
+  {
+    "name_and_description": "Asus VivoBook X441NA-GA190 Chocolate Black, 14\", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd",
+    "price": "$295.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/545"
+  },
+  {
+    "name_and_description": "Prestigio SmartBook 133S Dark Grey, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+    "price": "$299.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/546"
+  },
+  {
+    "name_and_description": "Prestigio SmartBook 133S Gold, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+    "price": "$299.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/547"
+  },
+  {
+    "name_and_description": "15.6\", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",
+    "price": "$306.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/517"
+  },
+  {
+    "name_and_description": "Lenovo V110-15IAP, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$321.94",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/548"
+  },
+  {
+    "name_and_description": "Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",
+    "price": "$356.49",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/549"
+  },
+  {
+    "name_and_description": "Hewlett Packard 250 G6 Dark Ash Silver, 15.6\" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS",
+    "price": "$364.46",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/550"
+  },
+  {
+    "name_and_description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$372.70",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/551"
+  },
+  {
+    "name_and_description": "Acer Aspire A315-31-C33J Black 15.6\", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG",
+    "price": "$379.94",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/552"
+  },
+  {
+    "name_and_description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Linux",
+    "price": "$379.95",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/553"
+  },
+  {
+    "name_and_description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$391.48",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/554"
+  },
+  {
+    "name_and_description": "Acer Aspire 3 A315-21, 15.6\", AMD A4-9120. 4GB. 128GB SSD, Linux",
+    "price": "$393.88",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/555"
+  },
+  {
+    "name_and_description": "Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home",
+    "price": "$399.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/530"
+  },
+  {
+    "name_and_description": "Asus VivoBook E502NA-GO022T Dark Blue, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+    "price": "$399.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/556"
+  },
+  {
+    "name_and_description": "Lenovo ThinkPad E31-80, 13.3\" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$404.23",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/557"
+  },
+  {
+    "name_and_description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$408.98",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/558"
+  },
+  {
+    "name_and_description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home",
+    "price": "$409.63",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/559"
+  },
+  {
+    "name_and_description": "Acer Aspire ES1-732 Black, 17.3\" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home",
+    "price": "$410.46",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/560"
+  },
+  {
+    "name_and_description": "Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+    "price": "$410.66",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/561"
+  },
+  {
+    "name_and_description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+    "price": "$416.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/516"
+  },
+  {
+    "name_and_description": "Asus EeeBook R416NA-FA014T, 14\" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd",
+    "price": "$433.30",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/562"
+  },
+  {
+    "name_and_description": "Acer Aspire 3 A315-51, 15.6\" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home",
+    "price": "$436.29",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/563"
+  },
+  {
+    "name_and_description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home",
+    "price": "$436.29",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/564"
+  },
+  {
+    "name_and_description": "Acer Extensa 15 (2540) Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+    "price": "$439.73",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/565"
+  },
+  {
+    "name_and_description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+    "price": "$454.62",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/566"
+  },
+  {
+    "name_and_description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro",
+    "price": "$454.73",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/567"
+  },
+  {
+    "name_and_description": "Acer Aspire A315-51-33TG, Black 15.6\" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG",
+    "price": "$457.38",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/568"
+  },
+  {
+    "name_and_description": "Lenovo V110-15IKB, 15.6\" HD, Core i5-7200U, 4GB, 500GB, DOS",
+    "price": "$465.95",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/569"
+  },
+  {
+    "name_and_description": "Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6\" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd",
+    "price": "$468.56",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/570"
+  },
+  {
+    "name_and_description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$469.10",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/571"
+  },
+  {
+    "name_and_description": "Lenovo V510 Black, 14\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$484.23",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/572"
+  },
+  {
+    "name_and_description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 128GB SSD, Linux",
+    "price": "$485.90",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/573"
+  },
+  {
+    "name_and_description": "Lenovo V510 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$487.80",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/574"
+  },
+  {
+    "name_and_description": "Acer Swift 1 SF113-31 Silver, 13.3\" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$488.64",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/575"
+  },
+  {
+    "name_and_description": "Dell Vostro 15 (3568) Black, 15.6\" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux",
+    "price": "$488.78",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/531"
+  },
+  {
+    "name_and_description": "Acer Aspire 3 A315-51 Black, 15.6\" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home",
+    "price": "$494.71",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/576"
+  },
+  {
+    "name_and_description": "Dell Vostro 15 (3568) Red, 15.6\" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux",
+    "price": "$497.17",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/577"
+  },
+  {
+    "name_and_description": "Lenovo V510 Black, 15.6\" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro",
+    "price": "$498.23",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/578"
+  },
+  {
+    "name_and_description": "15.6\", Core i5-4210U, 4GB, 500GB, Windows 8.1",
+    "price": "$520.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/527"
+  },
+  {
+    "name_and_description": "Acer Spin 5 SP513-51 Black, 13.3\" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home",
+    "price": "$564.98",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/532"
+  },
+  {
+    "name_and_description": "15.6\", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows",
+    "price": "$577.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/529"
+  },
+  {
+    "name_and_description": "15.6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",
+    "price": "$581.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/521"
+  },
+  {
+    "name_and_description": "15.6\", Core i5-4200U, 6GB, 750GB, Windows 8.1",
+    "price": "$609.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/523"
+  },
+  {
+    "name_and_description": "Acer Aspire A515-51-5654, Black, 15.6\", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG",
+    "price": "$679.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/533"
+  },
+  {
+    "name_and_description": "Dell Inspiron 15 (5567) Fog Gray, 15.6\" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux",
+    "price": "$679.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/534"
+  },
+  {
+    "name_and_description": "Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14\", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd",
+    "price": "$729.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/535"
+  },
+  {
+    "name_and_description": "14\", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",
+    "price": "$739.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/519"
+  },
+  {
+    "name_and_description": "Moon Silver, 15.6\", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",
+    "price": "$745.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/524"
+  },
+  {
+    "name_and_description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS",
+    "price": "$799.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/536"
+  },
+  {
+    "name_and_description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home",
+    "price": "$809.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/537"
+  },
+  {
+    "name_and_description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home",
+    "price": "$899.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/538"
+  },
+  {
+    "name_and_description": "Lenovo ThinkPad L570, 15.6\" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$999.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/539"
+  },
+  {
+    "name_and_description": "12.5\" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",
+    "price": "$1033.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/522"
+  },
+  {
+    "name_and_description": "Lenovo ThinkPad L460, 14\" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1096.02",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/579"
+  },
+  {
+    "name_and_description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home",
+    "price": "$1098.42",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/580"
+  },
+  {
+    "name_and_description": "MSI GL72M 7RDX, 17.3\" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+    "price": "$1099.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/581"
+  },
+  {
+    "name_and_description": "Asus ROG Strix GL553VD-DM535T, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd",
+    "price": "$1099.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/582"
+  },
+  {
+    "name_and_description": "Apple MacBook Air 13.3\", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS",
+    "price": "$1101.83",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/583"
+  },
+  {
+    "name_and_description": "Dell Latitude 5280, 12.5\" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1102.66",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/584"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home",
+    "price": "$1110.14",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/585"
+  },
+  {
+    "name_and_description": "Lenovo Legion Y520-15IKBM, Black, 15.6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home",
+    "price": "$1112.91",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/586"
+  },
+  {
+    "name_and_description": "Toshiba Portege Z30-C-16J Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1114.55",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/587"
+  },
+  {
+    "name_and_description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home",
+    "price": "$1123.87",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/588"
+  },
+  {
+    "name_and_description": "Acer Aspire 7 A715-71G, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home",
+    "price": "$1123.87",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/589"
+  },
+  {
+    "name_and_description": "Dell Inspiron 17 2in1 (7779) Silver, 17.3\" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home",
+    "price": "$1124.20",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/590"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro",
+    "price": "$1133.82",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/591"
+  },
+  {
+    "name_and_description": "Lenovo Legion Y520, 15.6\" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home",
+    "price": "$1133.91",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/592"
+  },
+  {
+    "name_and_description": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14\", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG",
+    "price": "$1139.54",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/593"
+  },
+  {
+    "name_and_description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home",
+    "price": "$1140.62",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/594"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1143.40",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/595"
+  },
+  {
+    "name_and_description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home",
+    "price": "$1144.20",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/596"
+  },
+  {
+    "name_and_description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1144.40",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/597"
+  },
+  {
+    "name_and_description": "Lenovo Legion Y520-15IKBM, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",
+    "price": "$1149.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/540"
+  },
+  {
+    "name_and_description": "MSI GP62M 7RDX Leopard, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+    "price": "$1149.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/598"
+  },
+  {
+    "name_and_description": "Lenovo Yoga 720 Grey, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+    "price": "$1149.73",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/599"
+  },
+  {
+    "name_and_description": "Toshiba Portege Z30-C-16L Grey, 13.3\" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1154.04",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/600"
+  },
+  {
+    "name_and_description": "Acer TravelMate P645-S-511A Black, 14\" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro",
+    "price": "$1170.10",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/601"
+  },
+  {
+    "name_and_description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home",
+    "price": "$1178.19",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/602"
+  },
+  {
+    "name_and_description": "15.6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",
+    "price": "$1178.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/518"
+  },
+  {
+    "name_and_description": "MSI GS63 7RD Stealth, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home",
+    "price": "$1179.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/603"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1187.88",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/604"
+  },
+  {
+    "name_and_description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home",
+    "price": "$1187.98",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/605"
+  },
+  {
+    "name_and_description": "MSI GL62M 7REX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+    "price": "$1199.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/606"
+  },
+  {
+    "name_and_description": "MSI GL62M 7REX2, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+    "price": "$1199.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/607"
+  },
+  {
+    "name_and_description": "Lenovo Yoga 910 Grey, 13.9\" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+    "price": "$1199.73",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/608"
+  },
+  {
+    "name_and_description": "Toshiba Portege X30-D-10J Black/Blue, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1203.41",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/609"
+  },
+  {
+    "name_and_description": "Lenovo IdeaPad Miix 510 Platinum Silver, 12.2\" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+    "price": "$1212.16",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/610"
+  },
+  {
+    "name_and_description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home",
+    "price": "$1221.58",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/611"
+  },
+  {
+    "name_and_description": "12.5\" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows",
+    "price": "$1223.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/528"
+  },
+  {
+    "name_and_description": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6\" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd",
+    "price": "$1235.49",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/612"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux",
+    "price": "$1238.37",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/613"
+  },
+  {
+    "name_and_description": "Asus ZenBook UX530UX-FY040T Blue, 15.6\" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd",
+    "price": "$1239.20",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/614"
+  },
+  {
+    "name_and_description": "12.5\", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",
+    "price": "$1244.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/526"
+  },
+  {
+    "name_and_description": "Asus ROG Strix GL753VE-GC096T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd",
+    "price": "$1259.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/615"
+  },
+  {
+    "name_and_description": "Apple MacBook Air 13\", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG",
+    "price": "$1260.13",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/616"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro",
+    "price": "$1271.06",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/617"
+  },
+  {
+    "name_and_description": "Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+    "price": "$1273.11",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/618"
+  },
+  {
+    "name_and_description": "13.3\" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",
+    "price": "$1281.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/525"
+  },
+  {
+    "name_and_description": "Toshiba Portege Z30-C-16K Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+    "price": "$1294.74",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/619"
+  },
+  {
+    "name_and_description": "MSI GL62VR 7RFX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home",
+    "price": "$1299.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/620"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1310.39",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/621"
+  },
+  {
+    "name_and_description": "12.5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",
+    "price": "$1311.99",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/520"
+  },
+  {
+    "name_and_description": "Hewlett Packard ProBook 640 G3, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1326.83",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/622"
+  },
+  {
+    "name_and_description": "Apple MacBook Pro 13\" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG",
+    "price": "$1333.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/623"
+  },
+  {
+    "name_and_description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro",
+    "price": "$1337.28",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/624"
+  },
+  {
+    "name_and_description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home",
+    "price": "$1338.37",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/625"
+  },
+  {
+    "name_and_description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux",
+    "price": "$1341.22",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/626"
+  },
+  {
+    "name_and_description": "Apple MacBook Air 13\", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS",
+    "price": "$1347.78",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/627"
+  },
+  {
+    "name_and_description": "Lenovo ThinkPad T470, 14\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+    "price": "$1349.23",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/628"
+  },
+  {
+    "name_and_description": "Lenovo ThinkPad Yoga 370 Black, 13.3\" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+    "price": "$1362.24",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/629"
+  },
+  {
+    "name_and_description": "Toshiba Portege X20W-D-10V Black/Blue, 12.5\" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro",
+    "price": "$1366.32",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/630"
+  },
+  {
+    "name_and_description": "Asus ASUSPRO B9440UA-GV0279R Gray, 14\" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd",
+    "price": "$1381.13",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/631"
+  },
+  {
+    "name_and_description": "Lenovo Legion Y720, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",
+    "price": "$1399.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/541"
+  },
+  {
+    "name_and_description": "Asus ROG Strix GL702VM-GC146T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd",
+    "price": "$1399.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/632"
+  },
+  {
+    "name_and_description": "Asus ROG Strix GL702ZC-GC154T, 17.3\" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+    "price": "$1769.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/542"
+  },
+  {
+    "name_and_description": "Asus ROG Strix GL702ZC-GC209T, 17.3\" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+    "price": "$1769.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/543"
+  },
+  {
+    "name_and_description": "Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6\" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home",
+    "price": "$1799.00",
+    "memorys": { "memorys": "128 256 512 1024", "memorys_unavailable": "1024" },
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/544"
+  }
+]

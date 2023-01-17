@@ -39,7 +39,7 @@ const array = [];
 
         array.push(obj);
         
-        await fs.writeFileSync('.export.json', JSON.stringify(array));
+        fs.writeFileSync('docs/export.json', JSON.stringify(array));
         
         console.log(array);
     }
