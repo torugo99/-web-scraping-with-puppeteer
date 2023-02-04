@@ -2,7 +2,7 @@ const pup = require('puppeteer')
 const fs = require('fs');
 
 const url = 'https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops';
-const searchFor = "Lenovo";
+const searchFor = "NoteBook";
 
 const Result = [];
 
